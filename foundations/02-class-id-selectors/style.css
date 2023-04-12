@@ -1,0 +1,21 @@
+/*style.css*/
+
+.odd-number {
+    background-color: hsla(346, 77%, 67%, 0.5);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#second-element {
+    color: rgba(125, 188, 230, 0.78);
+    font-size: 36px;
+}
+
+#fourth-element {
+    background-color: hsla(82, 52%, 41%, 0.5);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.but-cooler {
+    font-size: 24px;
+}
